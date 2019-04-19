@@ -29,3 +29,11 @@ Old drone build that I'm now deciding to post on github
    <img align="top" style="vertical-align:top;position: relative;" src="https://raw.githubusercontent.com/aziddy/Hardware_Drone_Build/master/media/20141022_184603.jpg" width="700"/>
   
 </p>
+
+
+## Wiring
+love bullet connectors ( IN PROGRESS )
+
+
+## Frame Mounting
+( IN PROGRESS )
