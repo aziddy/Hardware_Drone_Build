@@ -1,6 +1,13 @@
 # Hardware_Drone_Build
 Old drone build from 2015 that I'm now deciding to post on github
 
+
+
+<p align="center" style="vertical-align: top; position: relative" >
+  <img align="top" style="vertical-align:top;position: relative" src="https://raw.githubusercontent.com/aziddy/Hardware_Drone_Build/master/media/image.png" width="400"/>
+
+</p>
+
 <br>
 
 ## Part List
