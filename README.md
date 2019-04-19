@@ -1,5 +1,5 @@
 # Hardware_Drone_Build
-Old drone build that I'm now deciding to post on github
+Old drone build from 2015 that I'm now deciding to post on github
 
 
 
