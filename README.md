@@ -18,6 +18,7 @@ Old drone build that I'm now deciding to post on github
 | 5.6mm x 16mm M3 Nylon Threaded Spacer (10pc) | Nylon Spacers | 1 | 1 |
 | 5.6mm x 24mm M3 Nylon Threaded Spacer (10pc) | Nylon Spacers | 1 | 1 |
 
+<br>
 
 ## Getting the order
 
@@ -30,10 +31,12 @@ Old drone build that I'm now deciding to post on github
   
 </p>
 
+<br>
 
 ## Wiring
 love bullet connectors ( IN PROGRESS )
 
+<br>
 
 ## Frame Mounting
 ( IN PROGRESS )
