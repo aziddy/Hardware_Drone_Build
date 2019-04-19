@@ -40,3 +40,16 @@ love bullet connectors ( IN PROGRESS )
 
 ## Frame Mounting
 ( IN PROGRESS )
+
+<br>
+
+## Battery Charging and Maintenance
+( IN PROGRESS )
+
+<p align="center" style="vertical-align: top; position: relative" >
+  <img align="top" style="vertical-align:top;position: relative" src="https://raw.githubusercontent.com/aziddy/Hardware_Drone_Build/master/media/20141101_220415.jpg" width="400"/>
+   
+   <img align="top" style="vertical-align:top;position: relative" src="https://raw.githubusercontent.com/aziddy/Hardware_Drone_Build/master/media/20150615_144825.jpg" width="400"/>
+    
+</p>
+
